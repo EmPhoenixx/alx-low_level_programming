@@ -1,5 +1,5 @@
 /**
- * main - putchar.c
+ * main - 0-putchar.c
  *
  * Desceiption:Write a program that prints _putchar, followed by a new line.
  *
