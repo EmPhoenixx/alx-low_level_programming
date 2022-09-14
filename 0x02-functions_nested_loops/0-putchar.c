@@ -6,7 +6,7 @@
  * Return: 0
  */int main(void)
 {
- __putchar(__);
+ _putchar(_);
 _putchar(p);
 _putchar(u);
    _putchar(t);
